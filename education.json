@@ -1,0 +1,31 @@
+{
+  "education": [
+    {
+      "start": "2022",
+      "end": "Present",
+      "location": "Hong Kong",
+      "role": "",
+      "name": "The Hong Kong University of Science and Technology",
+      "description": "BEng Major in Computer Science with Extended Major in Artificial Intelligence, BBA Major in Finance.",
+      "tags": []
+    },
+    {
+      "start": "2025",
+      "end": "2025",
+      "location": "Los Angeles, CA",
+      "role": "",
+      "name": "University of Southern California",
+      "description": "Exchange Student, Computer Science.",
+      "tags": []
+    },
+    {
+      "start": "2020",
+      "end": "2022",
+      "location": "United Kingdom",
+      "role": "",
+      "name": "GCEAL (Pearson and Edexcel)",
+      "description": "A* in Mathematics, Additional Mathematics, Physics, and Chemistry.",
+      "tags": []
+    }
+  ]
+}

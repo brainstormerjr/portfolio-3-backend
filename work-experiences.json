@@ -1,0 +1,57 @@
+{
+  "experiences": [
+    {
+      "start": "May 2025",
+      "end": "Aug 2025",
+      "location": "New York, NY",
+      "role": "Full Stack Engineering Intern",
+      "name": "Make the Dot",
+      "description": "Release multiple features from backend to frontend and investigate client and server side image processing methods. Participate in sprint planning and learn to work in a fast-paced environment.",
+      "tags": [
+        "Angular",
+        "Typescript",
+        "Apollo",
+        "Prisma",
+        "GraphQL",
+        "ExpressJS",
+        "Python"
+      ]
+    },
+    {
+      "start": "Sep 2022",
+      "end": "Dec 2024",
+      "location": "Hong Kong",
+      "role": "",
+      "name": "Private Tutor",
+      "description": "Instruct small groups of 2-3 in HKDSE Physics, enhance communication skills. Design worksheets and homework for students.",
+      "tags": ["Tutoring"]
+    },
+    {
+      "start": "Jun 2024",
+      "end": "Aug 2024",
+      "location": "Palo Alto, CA",
+      "role": "Software Development Intern",
+      "name": "Make the Dot",
+      "description": "Release frontend web features and prototype generative diffuser models for image generation. Learn to work under pressure in a fast-paced environment with tight deadlines.",
+      "tags": ["Angular", "Typescript", "Python"]
+    },
+    {
+      "start": "Aug 2023",
+      "end": "Jan 2024",
+      "location": "Hong Kong",
+      "role": "Software Development Intern",
+      "name": "Hoopoe Technology",
+      "description": "Develop a fitness rewards program mobile app and its landing page. Work closely with a development team of 4, cultivating communications skills and teamwork.",
+      "tags": ["Flutter", "Dart", "Firebase"]
+    },
+    {
+      "start": "Jul 2022",
+      "end": "Aug 2022",
+      "location": "Hong Kong",
+      "role": "Attendant",
+      "name": "Gong Cha",
+      "description": "Develop customer service skills while working the cashier and making boba tea.",
+      "tags": ["Service"]
+    }
+  ]
+}

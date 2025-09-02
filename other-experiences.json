@@ -1,0 +1,31 @@
+{
+  "experiences": [
+    {
+      "start": "Oct 2024",
+      "end": "",
+      "location": "Hong Kong",
+      "role": "Finalist",
+      "name": "UBS Global Coding Challenge",
+      "description": "Demonstrate strong problem-solving skills and algorithm development techniques, practice ethical hacking through CTF challenges and token replay attacks, and develop HTTP servers using Python, Flask, and ngrok.",
+      "tags": ["Python", "Flask", "ngrok", "DSA"]
+    },
+    {
+      "start": "Feb 2024",
+      "end": "May 2024",
+      "location": "Hong Kong",
+      "role": "",
+      "name": "TEMG 4950M Corporate Consulting Project: Advanced Air Mobility for Arup Aviation",
+      "description": "Perform stakeholder interviews to understand the client's requirements and deliverables, perform competitor analysis and financial projections, and work in a team to design a solution and go-to-market plan.",
+      "tags": ["Consulting", "Go-to-market Plan"]
+    },
+    {
+      "start": "Jan 2023",
+      "end": "Jan 2024",
+      "location": "Hong Kong",
+      "role": "General Secretary",
+      "name": "The Organizing Committee of the Dual Degree Program of Technology and Management of the HKUST",
+      "description": "Plan and coordinate an orientation camp, developing project management and communication skills within a team.",
+      "tags": []
+    }
+  ]
+}
