@@ -15,7 +15,8 @@
         "GraphQL",
         "ExpressJS",
         "Python"
-      ]
+      ],
+      "link": "https://makethedot.com"
     },
     {
       "start": "Sep 2022",
@@ -24,7 +25,8 @@
       "role": "",
       "name": "Private Tutor",
       "description": "Instruct small groups of 2-3 in HKDSE Physics, enhance communication skills. Design worksheets and homework for students.",
-      "tags": ["Tutoring"]
+      "tags": ["Tutoring"],
+      "link": "https://brainstormerjr.github.io/A-Level-Notes/"
     },
     {
       "start": "Jun 2024",
@@ -33,7 +35,8 @@
       "role": "Software Development Intern",
       "name": "Make the Dot",
       "description": "Release frontend web features and prototype generative diffuser models for image generation. Learn to work under pressure in a fast-paced environment with tight deadlines.",
-      "tags": ["Angular", "Typescript", "Python"]
+      "tags": ["Angular", "Typescript", "Python"],
+      "link": "https://makethedot.com"
     },
     {
       "start": "Aug 2023",
@@ -42,7 +45,8 @@
       "role": "Software Development Intern",
       "name": "Hoopoe Technology",
       "description": "Develop a fitness rewards program mobile app and its landing page. Work closely with a development team of 4, cultivating communications skills and teamwork.",
-      "tags": ["Flutter", "Dart", "Firebase"]
+      "tags": ["Flutter", "Dart", "Firebase"],
+      "link": "https://www.instagram.com/move.ust/"
     },
     {
       "start": "Jul 2022",
@@ -51,7 +55,8 @@
       "role": "Attendant",
       "name": "Gong Cha",
       "description": "Develop customer service skills while working the cashier and making boba tea.",
-      "tags": ["Service"]
+      "tags": ["Service"],
+      "link": "https://www.gong-cha.com/"
     }
   ]
 }

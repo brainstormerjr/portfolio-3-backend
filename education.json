@@ -7,7 +7,8 @@
       "role": "",
       "name": "The Hong Kong University of Science and Technology",
       "description": "BEng Major in Computer Science with Extended Major in Artificial Intelligence, BBA Major in Finance.",
-      "tags": []
+      "tags": [],
+      "link": "https://techmgmt.hkust.edu.hk/"
     },
     {
       "start": "2025",
@@ -16,7 +17,8 @@
       "role": "",
       "name": "University of Southern California",
       "description": "Exchange Student, Computer Science.",
-      "tags": []
+      "tags": [],
+      "link": "https://viterbischool.usc.edu/"
     },
     {
       "start": "2020",
@@ -25,7 +27,8 @@
       "role": "",
       "name": "GCEAL (Pearson and Edexcel)",
       "description": "A* in Mathematics, Additional Mathematics, Physics, and Chemistry.",
-      "tags": []
+      "tags": [],
+      "link": "https://ruthinschool.co.uk/"
     }
   ]
 }

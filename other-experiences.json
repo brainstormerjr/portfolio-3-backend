@@ -7,7 +7,8 @@
       "role": "Finalist",
       "name": "UBS Global Coding Challenge",
       "description": "Demonstrate strong problem-solving skills and algorithm development techniques, practice ethical hacking through CTF challenges and token replay attacks, and develop HTTP servers using Python, Flask, and ngrok.",
-      "tags": ["Python", "Flask", "ngrok", "DSA"]
+      "tags": ["Python", "Flask", "ngrok", "DSA"],
+      "link": "https://www.linkedin.com/posts/harold-kwan_shareubs-morethanourselves-technology-activity-7247972176513884160-52EV"
     },
     {
       "start": "Feb 2024",
@@ -16,7 +17,8 @@
       "role": "",
       "name": "TEMG 4950M Corporate Consulting Project: Advanced Air Mobility for Arup Aviation",
       "description": "Perform stakeholder interviews to understand the client's requirements and deliverables, perform competitor analysis and financial projections, and work in a team to design a solution and go-to-market plan.",
-      "tags": ["Consulting", "Go-to-market Plan"]
+      "tags": ["Consulting", "Go-to-market Plan"],
+      "link": "https://ais.hkust.edu.hk/whats-happening/news/temg4950m-corporate-consulting-project-services-design-flying-taxis-arup"
     },
     {
       "start": "Jan 2023",
@@ -25,7 +27,8 @@
       "role": "General Secretary",
       "name": "The Organizing Committee of the Dual Degree Program of Technology and Management of the HKUST",
       "description": "Plan and coordinate an orientation camp, developing project management and communication skills within a team.",
-      "tags": []
+      "tags": [],
+      "link": ""
     }
   ]
 }
