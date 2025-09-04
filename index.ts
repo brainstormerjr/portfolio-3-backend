@@ -56,6 +56,26 @@ app.get("/projects/:id", async (req, res) => {
   }
 });
 
+app.get("/blogs", async (req, res) => {
+  const blogs = JSON.parse(fs.readFileSync("./blogs.json", "utf-8"));
+  res.send(blogs);
+});
+
+app.get("/blogs/:id", async (req, res) => {
+  const blogs = JSON.parse(fs.readFileSync("./blogs.json", "utf-8"));
+  const blog = blogs.blogs.find((p: { id: string }) => p.id === req.params.id);
+  let markdown = "";
+  const markdownPath = path.join("./blogs/markdown", `${req.params.id}.md`);
+  if (fs.existsSync(markdownPath)) {
+    markdown = fs.readFileSync(markdownPath, "utf-8");
+  }
+  if (blog) {
+    res.send({ blog, markdown });
+  } else {
+    res.status(404).json({ error: "Blog not found" });
+  }
+});
+
 app.get("/icons", async (req, res) => {
   try {
     const iconFiles = fs
@@ -68,7 +88,7 @@ app.get("/icons", async (req, res) => {
 });
 
 app.use("/projects/images", express.static("./projects/images"));
-app.use("/projects/markdown", express.static("./projects/markdown"));
+app.use("/blogs/images", express.static("./blogs/images"));
 app.use("/icons", express.static("./icons"));
 
 // app.use("/icons", (req, res) => {
@@ -76,5 +96,5 @@ app.use("/icons", express.static("./icons"));
 // });
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`);
+  console.log(`Portfolio-3 Backend listening on port ${port}`);
 });

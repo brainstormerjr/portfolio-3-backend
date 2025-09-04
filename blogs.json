@@ -1,0 +1,53 @@
+{
+  "blogs": [
+    {
+      "id": "jamming-with-an-artist",
+      "title": "Jamming With An Artist",
+      "subtitle": "Making a game with a 'team'",
+      "tags": ["Lifestyle"],
+      "image": "artist.png",
+      "date": "Wednesday 17th August 2022",
+      "links": [
+        {
+          "text": "The itch.io game page",
+          "url": "https://brainstormerjr.itch.io/roll-of-the-dice"
+        },
+        {
+          "text": "The GMTK Game Jam 2022 page",
+          "url": "https://itch.io/jam/gmtk-jam-2022"
+        },
+        {
+          "text": "The artist's Instagram page",
+          "url": "https://www.instagram.com/ogas.art/"
+        }
+      ]
+    },
+    {
+      "id": "pv-ntr-and-e-hv",
+      "title": "pV=nTR and E=h𝜈?",
+      "subtitle": "A rant about symbols in science",
+      "tags": ["Science"],
+      "image": "pVnTR.png",
+      "date": "Friday 6th May 2022",
+      "links": []
+    },
+    {
+      "id": "creating-a-portfolio",
+      "title": "Creating A Portfolio",
+      "subtitle": "and a personal blog just because",
+      "tags": ["Lifestyle"],
+      "image": "creatingAPortfolio.png",
+      "date": "Thursday 5th May 2022",
+      "links": [
+        {
+          "text": "Press this link (It takes you to the about page)",
+          "url": "https://portfolio-963de.web.app/about"
+        },
+        {
+          "text": "2nd link to test the list (still goes to the about page)",
+          "url": "https://portfolio-963de.web.app/about"
+        }
+      ]
+    }
+  ]
+}

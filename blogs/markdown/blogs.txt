@@ -1,0 +1,235 @@
+<b></b> bold
+<i></i> italics
+<u></u> underline
+<s></s> strikethrough
+
+
+#BLOGSTART pv-ntr-and-e-hv
+
+#PARAGRAPH
+A rant dedicated to the guy who sits next to me in physics. And other idiots in science. (Warning: long and boring heap of text ahead)
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+Everyone knows the ideal gas equation (if you do high school physics or chemistry). pV=nRT. That is how everyone learnt it. At least that is what I thought. Then one day, this guy tells me that it is pV=nTR. nTR. Temperature is put before the molar gas constant. Why. Just, why.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+I know what you are thinking. 'It's just an equation!' And it is. But every single time I hear it, it hurts. Every time I hear it, I die a little inside. And I hear it too much. Every single time we do anything related to ideal gases, he says 'pV=nTR HAHAH AHAHAHAH AHHAAH HAHAHAHA'. And my ears are subject to the indescribable torment once again. I wait for the thought of this abomination of an equation to leave my mind. But it doesn't seem to go.
+
+#IMAGE
+getOutOfMyHead.jpg
+
+#PARAGRAPH
+I know that it sounds like he is just saying that to piss me off. But I asked him about it. Turns out has has used pV=nTR instead of pV=nRT his entire life. His entire life. This is unacceptable. Which is why I might start a fund to help the mentally challenged get their physics equations right.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+Then there is the other question: should you use uppercase P or lowercase p for pressure? The thing is, both are already used for something: P for power and p for momentum (strangely there is no p in momentum). If only there was a 3rd version of the letter 'p', then maybe pressure can use that. I prefer lower case p, beacause well... reasons. But if you use upper case P I won't judge.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+Enough about pV=nTR, we will circle back. Let's talk about other stupid stuff in science (because I like to), like the use of the greek letter 𝜈 (nu) for frequency of light instead of the obvious choice of the latin letter f. I know f is still used, and definitely the one I use, but some people use 𝜈 for some reason. I mean, just look at this equation: E=hf. So clear and concise. So easily understandable. Then look at this abomination: E=h𝜈. What does 𝜈 stand for? It's not a latin letter v since it is curly, so not velocity. How would I know that 𝜈 stands for FREQUENCY? Its frequency, not vrequency, and definitely not 𝜈requency.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+What other stupid things are there in science? Well let's talk about our lowercase and uppercase P's again. We have power (P), momentum (p), and pressure (P / p). But what about density? The symbol for density is the greek letter ρ (rho). I don't know about you, but that looks awfully like a p to me. So let's say we created a new property of a material. It is the momentum gained when a certain pressure is applied at an indicated power to an object of a particular density (it doesn't matter if it doesn't make sense, we are just theorizing here). Let's give this unknown property the symbol P. The expression for this property would be:
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+P = pPpρ
+
+#IMAGE
+p.png
+
+#PARAGRAPH
+Now I know, this property doesn't even make any sense. But something similar to this MIGHT happen in the future. What will the world of physics do if/when it does? Are we just going to allow this? This is a gaping flaw in the system. And it needs to be fixed.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+So here is the solution: we don't use single symbols. They are ambiguous and are kinda up to interpretation. Instead of saying pV=nRT, we should say 'pressure times volume equals the number of moles of gas times the molar gas constant times the temperature of the gas.' I'll admit, that is quite a mouthful. But it is for the best. After all, there is no abmiguity, right?
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+If you have ever tried to describe a mathematical equation over the phone, you know what I'm about to say. Imagine you are trying to tell someone this suvat equation: s = 0.5(u + v)t. What would you say? You could say 'displacement equals a half times initial velocity plus final velocity times time.' But that isn't really clear. For all I know, you could be saying s = 0.5u + vt, which isn't quite what you were actually trying to say. And also we all know this is a stupid solution.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+So I guess there is no way out.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+There is no solution to this mess.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+We just gotta suck it up I guess. T_T
+
+#LINEBREAK
+#LINEBREAK
+
+#BLOGEND
+
+#BLOGSTART creating-a-portfolio
+
+#PARAGRAPH
+It's time to create a portfolio for myself. No reason why. Just wanna do it, I guess. Maybe because having a convenient place to see all my projects would be nice. Maybe I want to show off. Maybe this is just a way to distract myself from the pain within that consumes me more and more each day. Maybe it's just cool. Nobody knows why we do anything. That's the beauty of creativity.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+This portfolio is my first ever full-scale project with Vue.js. It is a GREAT experience, and it allows me to do SO MUCH MORE with so little effort. I guess I will never go back to vanilla javascript (unless it's for a P5 project because why bother setting up so much for a small sketch). This is like Wix/Weebly, but more computer science-ey, if you know what I mean. And I love being computer science-ey. I love spending hours in front of my computer, debugging a heap of messy and illegible code. It's fun.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+Now let's address the elephant in the room. I am great with making projects. They are AWESOME to work on. I have a million tiny experiments just sitting on my computer. These projects just don't get boring. And because I make so many projects, I would say I am at least decent at them. However, as you can tell by the obvious lack of effort in the cover image of this blog, I suck ASS at writing blogs (and writing in general). Sure, me don't make a many grammar mistake, but I am still not great at writing interesting content. The greatest writing achievement I have is getting you to read more than 3 paragraphs of this blog.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+So why am I writing a blog? Because blogs are cool I guess? There is just no reason to not include a blog in my own PERSONAL WEBSITE. But I have no idea how to setup a decent blog either. This is written in VS Code in a .json format, and it is not exactly enjoyable to write. But what else am I supposed to do? I am a programmer, not a journalist. Maybe one day these blogs will be written in a software that doesn't use a monospace font. A blog written in a format that doesn't require me to write an entire paragrah in one line just so that it will parse properly.
+
+#IMAGE
+editingAJsonBlog.png
+
+#PARAGRAPH
+Did you look at the above picture closely? If not, look again. Right there at the bottom of the editor. Do you see it? It's a key in this blog json file called 'links'. Now you may be wondering: where the hell are my links? There is not a single link mentioned in this blog. Are you scamming me, Harold? What are you trying to pull? And to that, I respond: I have no f*cking clue.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+Ok, that may be a slight exaggeration. I do kind of know why I might need links for the future: so that my blogs can be slightly more interesting by linking to other stuff. However, I have absolutely no clue why I put links in this particular blog. There is no need for a link. Absolutely none. However, as of writing this, this is the only blog on this foresaken website so I will need to test out the links functionality, so go ahead! Scroll down to the links and click on them! Don't let my efforts be in vain! Don't worry, all the links open in new tabs so you can always just come back. I'll be waiting ;)
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+That was a LONG detour on how terrible I am at writing blogs. Now let's get to the actual topic promised in the title: CREATING A PORTFOLIO:
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+I just learned Vue. Quite literally just a week ago. And a week later I already have a pretty solid website. Just in case the website looks EXTRA CRISPY in the future, I will put an image below to depict what the website looks about 1 week into development:
+
+#IMAGE
+websiteOneWeek.png
+
+#PARAGRAPH
+That page is the project page. That may look different depending on when in the future you are reading this from (and if you are part of an alien civilization, welcome to Earth). I just want a place to see all the things that I have done, especially when I am old and grey and sitting on a bed. I want to be able to go to that website and click through all the stupid sh*t that I made over the years, and go 'oh yeah I remember making that!'. And also a great way for future employers to see what I do I guess.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+I wish there was more to say about my portfolio. But there really isn't much. Check out the 'about' page, I guess. It says that I am a horny teenager there, which is kinda funny? I don't know. Oh well.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+See ya!
+
+#LINEBREAK
+#LINEBREAK
+
+#LINK
+Press this link (It takes you to the about page)
+https://portfolio-963de.web.app/about
+
+#LINK
+2nd link to test the list (still goes to the about page)
+https://portfolio-963de.web.app/about
+
+#BLOGEND
+
+#BLOGSTART jamming-with-an-artist
+
+#PARAGRAPH
+So, another blog. It has been like 3 months since I wrote one of these.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+I participated in the GMTK Game Jam 2022 on 16th July 2022, which lasted 2 days. That was like a month ago, so why am I only writing a blog about it now? No fucking clue. I only uploaded the project page today, so might as well write a blog about the experience, right?
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+This is the first time I worked together with a legitamate professional artist, and it was WILD. If you paid attention to my work before, you would have noticed the shitty cartoon characters in my games. Although they have some 'style', it is nothing compared to actual work done by people who devoted their lives to creating good quality artwork.
+
+#IMAGE
+rollRangerSpritesheet.png
+
+#PARAGRAPH
+This is the spritesheet for the player character in this game. You may like it,or you might prefer my art style over this, but you have to admit it is a nice change of pace to see something that ISN'T straight out of fucking cartoon network moving around on screen. This spritesheet did take almost a full day (out of the 2-day deadline) to get to me, and I wish I could blame the artist for everything but honestly I think it's my bad that I didn't tell her I could just mirror the sprite in code. So you know, I guess we can split the blame 50/50 on this one.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+In the end, we managed to submit the project by the deadline, even though we had to stay up 'till 3:00am to finish up. I also had a game testing guy that tested my game wayyyyyy too much to make sure it was fun and balanced, which was nice. So almost a team of THREE. Three times more people than I am used to working with. But it was a fun experience, and honestly things went wayyyyyy more smoothly than I anticipated.
+
+#IMAGE
+rollRangerTitleScreen.png
+
+#PARAGRAPH
+This is the title screen of the game. Tell me this doesnt look SICK. It also has parallax, and the crossbow moves when your cursor moves around the screen. One of the best looking title screens I have ever put in a game, hands down. All thanks to the great art supplied by the artist, the tools given to me by the Unity engine, and my big ass brain.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+You know what I wasn't too happy about though? The game itself. It just felt off. I don't know what it is, but it feels less polished than my other game jam entries, even though I spent quite a bit of time polishing this one. The mechanics and gameplay just feels... off? I might be overthinking it though, because other people liked it just fine. Maybe it's the inner game design perfectionist talking.
+
+#LINEBREAK
+#LINEBREAK
+
+#PARAGRAPH
+Overall? A great game jam experience. I look forward to doing another one in a few weeks, maybe with the same team. If they are down for it.
+
+#LINEBREAK
+#LINEBREAK
+
+#LINK
+The itch.io game page
+https://brainstormerjr.itch.io/roll-of-the-dice
+
+#LINK
+The GMTK Game Jam 2022 page
+https://itch.io/jam/gmtk-jam-2022
+
+#LINK
+The artist's Instagram page
+https://www.instagram.com/ogas.art/
+
+#BLOGEND

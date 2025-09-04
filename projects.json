@@ -40,7 +40,12 @@
       "subtitle": "Fitness Rewards for HKUST Students",
       "tags": ["Flutter", "Dart"],
       "image": "moveUST.png",
-      "links": [{ "text": "Website", "url": "https://moveust.com" }]
+      "links": [
+        {
+          "text": "Instagram Page",
+          "url": "https://www.instagram.com/move.ust/"
+        }
+      ]
     },
     {
       "id": "blappy-fird",
