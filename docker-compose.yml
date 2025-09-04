@@ -1,0 +1,6 @@
+services:
+  portfolio-2.0:
+    image: brainstormerjr/portfolio-3-backend:latest
+    ports:
+      - "3000:3000"
+    restart: always
