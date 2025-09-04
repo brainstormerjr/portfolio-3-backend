@@ -6,7 +6,7 @@ Now let's address the elephant in the room. I am great with making projects. The
 
 So why am I writing a blog? Because blogs are cool I guess? There is just no reason to not include a blog in my own PERSONAL WEBSITE. But I have no idea how to setup a decent blog either. This is written in VS Code in a .json format, and it is not exactly enjoyable to write. But what else am I supposed to do? I am a programmer, not a journalist. Maybe one day these blogs will be written in a software that doesn't use a monospace font. A blog written in a format that doesn't require me to write an entire paragrah in one line just so that it will parse properly.
 
-![Editing a JSON Blog](https://v3.api.haroldkwan.com/blogs/images/editingAJsonBlog.png)
+![Editing a JSON Blog](http://v3.api.haroldkwan.com/blogs/images/editingAJsonBlog.png)
 
 Did you look at the above picture closely? If not, look again. Right there at the bottom of the editor. Do you see it? It's a key in this blog json file called 'links'. Now you may be wondering: where the hell are my links? There is not a single link mentioned in this blog. Are you scamming me, Harold? What are you trying to pull? And to that, I respond: I have no f\*cking clue.
 
@@ -16,7 +16,7 @@ That was a LONG detour on how terrible I am at writing blogs. Now let's get to t
 
 I just learned Vue. Quite literally just a week ago. And a week later I already have a pretty solid website. Just in case the website looks EXTRA CRISPY in the future, I will put an image below to depict what the website looks about 1 week into development:
 
-![Website One Week](https://v3.api.haroldkwan.com/blogs/images/websiteOneWeek.png)
+![Website One Week](http://v3.api.haroldkwan.com/blogs/images/websiteOneWeek.png)
 
 That page is the project page. That may look different depending on when in the future you are reading this from (and if you are part of an alien civilization, welcome to Earth). I just want a place to see all the things that I have done, especially when I am old and grey and sitting on a bed. I want to be able to go to that website and click through all the stupid sh\*t that I made over the years, and go 'oh yeah I remember making that!'. And also a great way for future employers to see what I do I guess.
 
