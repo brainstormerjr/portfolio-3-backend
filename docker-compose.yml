@@ -1,5 +1,5 @@
 services:
-  portfolio-2.0:
+  portfolio-3-backend:
     image: brainstormerjr/portfolio-3-backend:latest
     ports:
       - "3000:3000"
