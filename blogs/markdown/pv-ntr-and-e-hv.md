@@ -4,7 +4,7 @@ Everyone knows the ideal gas equation (if you do high school physics or chemistr
 
 I know what you are thinking. 'It's just an equation!' And it is. But every single time I hear it, it hurts. Every time I hear it, I die a little inside. And I hear it too much. Every single time we do anything related to ideal gases, he says 'pV=nTR HAHAH AHAHAHAH AHHAAH HAHAHAHA'. And my ears are subject to the indescribable torment once again. I wait for the thought of this abomination of an equation to leave my mind. But it doesn't seem to go.
 
-![Get out of my head!](https://haroldkwan.com/api/blogs/images/getOutOfMyHead.jpg)
+![Get out of my head!](https://v3.api.haroldkwan.com/blogs/images/getOutOfMyHead.jpg)
 
 I know that it sounds like he is just saying that to piss me off. But I asked him about it. Turns out has has used pV=nTR instead of pV=nRT his entire life. His entire life. This is unacceptable. Which is why I might start a fund to help the mentally challenged get their physics equations right.
 
@@ -16,7 +16,7 @@ What other stupid things are there in science? Well let's talk about our lowerca
 
 P = pPpρ
 
-![p](https://haroldkwan.com/api/blogs/images/p.png)
+![p](https://v3.api.haroldkwan.com/blogs/images/p.png)
 
 Now I know, this property doesn't even make any sense. But something similar to this MIGHT happen in the future. What will the world of physics do if/when it does? Are we just going to allow this? This is a gaping flaw in the system. And it needs to be fixed.
 
