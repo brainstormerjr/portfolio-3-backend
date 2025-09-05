@@ -6,10 +6,11 @@ const app = express();
 const port = 3002;
 
 const corsOptions = {
-  origin: ["http://localhost:3000", "https://haroldkwan.com"],
+  // origin: ["http://localhost:3000", "https://haroldkwan.com"],
+  origin: ["*"],
 };
 
-// app.use(cors(corsOptions));
+app.use(cors(corsOptions));
 
 app.get("/", (req, res) => {
   res.send("Server for haroldkwan.com running as expected.");
