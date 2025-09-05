@@ -10,7 +10,8 @@ const corsOptions = {
   origin: ["*"],
 };
 
-app.use(cors(corsOptions));
+// app.use(cors(corsOptions));
+app.use(cors());
 
 app.get("/", (req, res) => {
   res.send("Server for haroldkwan.com running as expected.");
@@ -97,5 +98,5 @@ app.use("/icons", express.static("./icons"));
 // });
 
 app.listen(port, () => {
-  console.log(`Portfolio-3 Backend listening on port ${port}`);
+  console.log(`Portfolio-3 Backend listening on port ${port} with cors`);
 });
