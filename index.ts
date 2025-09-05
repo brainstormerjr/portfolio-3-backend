@@ -9,7 +9,7 @@ const corsOptions = {
   origin: ["http://localhost:3000", "https://haroldkwan.com"],
 };
 
-app.use(cors(corsOptions));
+// app.use(cors(corsOptions));
 
 app.get("/", (req, res) => {
   res.send("Server for haroldkwan.com running as expected.");
